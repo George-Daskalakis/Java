@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Patient
+comment0.text=\r\n\ The\ Patient\ class\ represents\ a\ patient\ in\ a\ medical\ practice.\r\n\ It\ holds\ the\ patient\ details\ relevant\ in\ our\ context.\r\n\ \r\n\ @author\ David\ J.\ Barnes\r\n\ @version\ 2018.12.04\r\n
+comment1.params=fullName
+comment1.target=Patient(java.lang.String)
+comment1.text=\r\n\ Create\ a\ new\ patient\ with\ a\ given\ name.\r\n\ @param\ fullName\ The\ name(s)\ of\ the\ patient.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getPatientID()
+comment2.text=\r\n\ Return\ the\ ID\ of\ this\ patient\ using\ part\ of\ their\ name\r\n\ and\ their\ patient\ number.\r\n\ @return\ The\ ID\ of\ this\ patient.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Return\ a\ string\ in\ the\ form\ "Title\ Name\ (ID)"\r\n\ if\ a\ title\ is\ present,\ or\r\n\ "Name\ (ID)"\ if\ there\ is\ no\ title.\r\n\ @return\ A\ string\ containing\r\n\ the\ patient's\ title\ (optional),\ name\ and\ ID\ number.\r\n
+comment4.params=number
+comment4.target=java.lang.String\ fiveDigitNumber(int)
+comment4.text=\r\n\ Return\ the\ given\ number\ formatted\ as\ a\ five-digit\ string.\r\n\ @param\ number\ The\ number\ to\ be\ formatted.\r\n\ @return\ A\ five-digit\ representation\ of\ number.\r\n
+numComments=5

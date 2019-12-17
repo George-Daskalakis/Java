@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Medic
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Medic\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ title
+comment1.target=Medic(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Set\ the\ medic's\ name\ and\ title.\ \r\n\ @param\ name\ The\ name\ of\ the\ medic.\r\n\ @param\ title\ The\ title\ of\ the\ medic.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Return\ the\ title\ and\ name\ of\ this\ medic.\r\n\ @return\ The\ title\ and\ name\ of\ this\ medic.\r\n
+numComments=3

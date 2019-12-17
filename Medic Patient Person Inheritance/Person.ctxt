@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Person\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ title
+comment1.target=Person(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Set\ the\ name\ and\ the\ title\ of\ the\ person,\r\n\ @param\ name\ The\ name\ of\ the\ person.\r\n\ @param\ title\ The\ title\ of\ the\ person.\r\n
+comment2.params=title
+comment2.target=void\ changeTitle(java.lang.String)
+comment2.text=\r\n\ Change\ the\ title\ of\ the\ person.\r\n\ @param\ newtitle\ The\ new\ title\ of\ the\ person.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ returns\ the\ name\ of\ the\ person.\ \r\n\ @return\ The\ name\ of\ the\ person.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getTitle()
+comment4.text=\r\n\ retuns\ the\ title\ of\ the\ person.\ \r\n\ @return\ The\ title\ of\ the\ person.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ return\ the\ title\ and\ name\ of\ the\ person.\r\n\ @return\ The\ title\ and\ name\ of\ the\ person.\r\n
+numComments=6
