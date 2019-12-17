@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GenerateLithium
+comment0.text=\r\n\ This\ class\ is\ responsible\ for\ generating\ a\ tray\ of\ lithium.\r\n\r\n\ @author\ George\ Daskalakis\r\n\ @version\ 20/10/2019\r\n
+comment1.params=
+comment1.target=GenerateLithium()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GenerateLithium\r\n
+comment2.params=
+comment2.target=int[][]\ getTray()
+comment2.text=\r\n\ Returns\ the\ two\ dimensional\ array.\r\n\ @return\ the\ two\ dimensional\ array\ \r\n
+comment3.params=
+comment3.target=void\ generateSample()
+comment3.text=\r\n\ Generates\ the\ two\ dimensional\ array\ with\ numbers\ from\ 0\ to\ 50\r\n
+comment4.params=
+comment4.target=void\ printTray()
+comment4.text=\r\n\ Prints\ out\ the\ two\ dimensional\ array.\r\n
+numComments=5

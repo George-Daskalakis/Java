@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BuyLithium
+comment0.text=\r\n\ This\ class\ offers\ a\ buyer\ the\ chance\ to\ enter\ a\ price\ and\ quality\ and\ the\ method\ should\ show\ all\ the\ lithium\ that\ is\ on\ offer\ at\ the\ buyer\u2019s\ price\ \r\n\ or\ any\ price\ lower\ than\ what\ the\ buyer\ has\ stated\r\n\ or\ show\ all\ the\ lithium\ that\ is\ on\ offer\ at\ the\ buyer's\ prefered\ quality\ or\ greater..\ \r\n\r\n\ @author\ George\ Daskalakis\r\n\ @version\ 20/10/2019\r\n
+comment1.params=lp
+comment1.target=BuyLithium(LithiumPricing)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BuyLithium\r\n\ @param\ lp\ The\ class\ of\ LithiumPricing.\r\n
+comment2.params=price
+comment2.target=void\ findBestPrice(double)
+comment2.text=\r\n\ Compares\ the\ price\ that\ the\ user\ inputs\ with\ the\ prices\ in\ the\ HashMap.\r\n\ Prints\ all\ the\ items\ that\ have\ a\ price\ lower\ or\ equal\ to\ the\ one\ the\ user\ selected.\r\n\ @param\ price\ The\ price\ that\ the\ user\ selcets.\r\n
+comment3.params=quality
+comment3.target=void\ findHighQuality(int)
+comment3.text=\r\n\ Compares\ the\ quality\ that\ the\ user\ inputs\ with\ the\ grade\ of\ lithium\ in\ the\ HashMap.\r\n\ Prints\ all\ the\ items\ that\ have\ a\ quality\ greater\ or\ equal\ to\ the\ one\ the\ user\ selected.\r\n\ @param\ quality\ The\ quality\ that\ the\ user\ selects.\r\n
+numComments=4

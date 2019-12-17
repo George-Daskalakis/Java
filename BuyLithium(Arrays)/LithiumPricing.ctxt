@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LithiumPricing
+comment0.text=\r\n\ This\ class\ makes\ use\ of\ Hashmaps\ to\ set\ the\ pricing\ of\ the\ lithium\ as\ this\ class\ is\ responsible\ for\ ensuring\ that\ each\ lithium\ sample\ is\ given\ a\ price.\ \r\n\r\n\ @author\ George\ Daskalakis\r\n\ @version\ 20/10/2019\r\n
+comment1.params=gl
+comment1.target=LithiumPricing(GenerateLithium)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LithiumPricing.\r\n\ @param\ gl\ The\ class\ of\ GenerateLithium.\r\n
+comment2.params=
+comment2.target=java.util.HashMap\ getHash()
+comment2.text=\r\n\ Returns\ the\ HashMap\ with\ \ an\ integer\ key\ and\ a\ Double\ as\ a\ value.\r\n\ @return\ the\ HashMap\ \r\n
+comment3.params=
+comment3.target=void\ setPrice()
+comment3.text=\r\n\ Creates\ the\ HashMap.\r\n\ Keys\ are\ the\ values\ from\ the\ two\ dimensional\ array.\r\n\ Values\ are\ the\ prices.\r\n
+comment4.params=
+comment4.target=void\ printPrice()
+comment4.text=\r\n\ Prints\ out\ the\ HashMap.\r\n\ Checks\ to\ see\ if\ the\ key\ is\ double\ digit\ to\ print\ the\ hashmap\ appropriately.\r\n
+numComments=5
