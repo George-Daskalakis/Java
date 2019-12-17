@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Competition
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Competition\ here.\r\n\ \r\n\ @author\ (George\ Daskalakis)\ \r\n\ @version\ (18/11/2018)\r\n
+comment1.params=
+comment1.target=Competition()
+comment1.text=\r\n\ Constructor\ for\ objects\ in\ class\ competition.\r\n
+comment2.params=person
+comment2.target=void\ addPersonality(Personality)
+comment2.text=\r\n\ Adds\ a\ personality\ object\ to\ the\ ArrayList\ of\ this\ competition.\r\n\ @param\ person\ The\ person\ that\ is\ added\ in\ the\ array\ list.\r\n
+comment3.params=
+comment3.target=int\ getSize()
+comment3.text=\r\n\ Returns\ the\ amount\ of\ objects\ that\ are\ in\ the\ ArrayList.\r\n\ @param\ return\ the\ size.\r\n
+comment4.params=
+comment4.target=void\ list()
+comment4.text=\r\n\ Shows\ the\ full\ list\ of\ personalities\ in\ this\ competition.\r\n
+comment5.params=name
+comment5.target=void\ voteFor(java.lang.String)
+comment5.text=\r\n\ Vote\ for\ a\ personality.\ \r\n\ A\ message\ is\ printed\ out\ if\ the\ name\ was\ not\ valid.\ \r\n\ \r\n\ @param\ name\ The\ name\ of\ the\ personality\ that\ you\ vote\ for.\r\n
+comment6.params=minimumVotes
+comment6.target=void\ shortlist(int)
+comment6.text=\r\n\ Removes\ any\ personalities\ that\ have\ less\ votes\ than\ the\ number\ inserted.\r\n\ \r\n\ @param\ minimumVotes\ The\ minimum\ amount\ of\ votes\ that\ a\ personality\ should\ have.\ \r\n
+comment7.params=number
+comment7.target=java.util.ArrayList\ getMost(int)
+comment7.text=\r\n\ Gives\ the\ personalities\ with\ the\ highest\ amount\ of\ votes.\ \r\n\ The\ number\ of\ personalities\ that\ it\ returns\ is\ determined\ by\ the\ user.\r\n\ \r\n\ @param\ number\ The\ number\ that\ determines\ how\ many\ personalities\ with\ the\ highest\ votes\ it\ should\ return.\r\n\ @return\ The\ personalities\ with\ the\ highest\ votes.\r\n
+numComments=8
