@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=numberIntoBinary
+comment1.params=
+comment1.target=numberIntoBinary()
+comment2.params=n\ bits
+comment2.target=java.lang.String\ decToBinary(long,\ int)
+numComments=3
